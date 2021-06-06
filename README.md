@@ -1,6 +1,7 @@
 # Introduce
 
-- Backend developer
+- Backend developer (System Engineer previously)
+- VIM Lover ❤️
 
 # Experience
 
