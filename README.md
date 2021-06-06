@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @jbl428
-- 👀 I’m interested in functional programing
-- 🌱 I’m currently learning haskell, fp-ts
+# Introduce
 
-<!---
-jbl428/jbl428 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Backend developer
+
+# Experience
+
+- GCP
+- Typescript (TypeGrphQL, TypeORM)
+- Golang
+- Next.js
+
+# Interest
+
+- BigQuery
+- Pure Fuctional Language
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbl428&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbl428&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
