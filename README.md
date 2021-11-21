@@ -6,7 +6,7 @@
 # Experience
 
 - GCP
-- Typescript (TypeGrphQL, TypeORM)
+- Typescript (TypeGrphQL, TypeORM, Nest.js)
 - Golang
 - Next.js
 
