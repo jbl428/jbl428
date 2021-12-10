@@ -9,6 +9,7 @@
 - Typescript (TypeGrphQL, TypeORM, Nest.js)
 - Golang
 - Next.js
+- Nest.js
 
 # Interest
 
