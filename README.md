@@ -1,17 +1,5 @@
-# Introduce
-
 - Backend developer (System Engineer previously)
 - VIM Lover ❤️
-
-# Experience
-
-- Typescript
-- Golang
-- Kotlin
-
-# Interest
-
-- Haskell
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbl428&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
